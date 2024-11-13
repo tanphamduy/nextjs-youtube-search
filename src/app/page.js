@@ -1,4 +1,5 @@
 // app/page.js (Next.js 13 App Router)
+"use client"; // Mark this file as a Client Component
 import { useState } from 'react';
 
 const YOUTUBE_API_KEY = process.env.NEXT_PUBLIC_YOUTUBE_API_KEY;
