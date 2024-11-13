@@ -1,5 +1,5 @@
 // pages/_document.js  (Create this file if it doesn't exist)
-import Document, { Html, Head, Main, NextScript } from 'next/document';
+import Document, { Html, Head, Main, NextScript } from 'next/head';
 
 export default class MyDocument extends Document {
     render() {
