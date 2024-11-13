@@ -30,11 +30,3 @@ This Next.js application allows you to search for YouTube videos by keyword and 
     ```bash
     npm run dev
 Open http://localhost:3000 with your browser to see the result.
-
-## Deployment
-This application is designed for deployment on Vercel.
-
-Push to your Git repository.
-Import the project into Vercel.
-Set the NEXT_PUBLIC_YOUTUBE_API_KEY environment variable in your Vercel project settings.
-Vercel will automatically build and deploy your application.
